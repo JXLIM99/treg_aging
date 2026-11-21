@@ -12,7 +12,7 @@
 | Processor | Apple M3 Ultra |
 | Memory | 256 GB RAM |
 
-The CosMx spatial analysis is memory-intensive and was run with 256 GB RAM. The other analyses run on a standard workstation.
+The analysis was run with 256 GB RAM.
 
 ### Software
 
