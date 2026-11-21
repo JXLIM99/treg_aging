@@ -21,12 +21,12 @@ The CosMx spatial analysis is memory-intensive and was run with 256 GB RAM. The 
 | Package | Version |
 |---|---|
 | Seurat | 5.3.1 |
-| sctransform | [x.y.z] |
-| harmony | [x.y.z] |
+| sctransform | [0.4.3] |
+| harmony | [2.0.5] |
 | clusrank | 1.0-4 |
-| CellChat | 2.[x] |
-| Rphenograph | [x.y.z] |
-| clustree | [x.y.z] |
+| CellChat | 2.2 |
+| Rphenograph | [0.99.1] |
+| clustree | [0.5.1] |
 | slingshot | 2.18 |
 | tradeSeq | 1.24 |
 | mgcv | 1.9-4 |
@@ -47,9 +47,9 @@ The CosMx spatial analysis is memory-intensive and was run with 256 GB RAM. The 
 | Tool | Version |
 |---|---|
 | napari | 0.4.19 |
-| napari-cosmx | [x.y.z] |
-| affinder | [x.y.z] |
-| napari_alignment_tools | [x.y.z] |
+| napari-cosmx | [0.4.17.4] |
+| affinder | [0.5.0] |
+| napari_alignment_tools | [0.0.1] |
 
 ---
 
