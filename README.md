@@ -10,9 +10,9 @@
 |---|---|
 | Operating system | macOS 27.2.1 |
 | Processor | Apple M3 Ultra |
-| Memory | 256 GB RAM |
+| Memory | 256 GB Unified Memory |
 
-The analysis was run with 256 GB RAM.
+The analysis was run with 256 GB Unified Memory.
 
 ### Software
 
